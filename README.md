@@ -103,7 +103,6 @@ cmake --build . --config Release
 build\Release\D2Rbot.exe --config ..\config\default.yaml
 ```
 
-(Обновите пример команды в соответствии с фактическими аргументами приложения.)
 
 ---
 
